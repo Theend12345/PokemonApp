@@ -1,7 +1,8 @@
-package com.me.pokemon
+package com.me.pokemon.presentation.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.me.pokemon.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
