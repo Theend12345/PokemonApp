@@ -38,4 +38,5 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.48")
     ksp("com.google.dagger:hilt-android-compiler:2.48")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+    implementation("androidx.paging:paging-runtime-ktx:3.2.1")
 }

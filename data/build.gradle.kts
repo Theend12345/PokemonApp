@@ -51,6 +51,12 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.48")
     ksp("com.google.dagger:hilt-android-compiler:2.48")
 
+    ksp("androidx.room:room-compiler:2.6.1")
+    implementation("androidx.room:room-ktx:2.6.1")
+    implementation("androidx.room:room-paging:2.6.1")
+
+    implementation("androidx.paging:paging-runtime-ktx:3.2.1")
+
     implementation(project(":domain"))
 
 }
