@@ -4,7 +4,7 @@
 
 ### _Графическая схема архитектуры приложения_
 
-<img src="https://raw.githubusercontent.com/Theend12345/testimg/main/pokemonapp.png" width="200" height="500">
+<img src="https://raw.githubusercontent.com/Theend12345/testimg/main/pokemonapp.png" width="400" height="600">
 
 ## Технологии
 
